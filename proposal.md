@@ -60,6 +60,7 @@ Person
 
 
 Name each interface or class and briefly describe its function or purpose.
+
 Elevator - contains the current floor it's on and it's direction
 ElevatorManager - Acts as a way to keep track of all the elevators 
 Person - contains the floor the person is on, which floor they need to go to, as well as a priority.
