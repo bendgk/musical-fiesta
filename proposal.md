@@ -35,12 +35,15 @@ Describe at a high level a program that could solve that problem.
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
+ Elevator Efficiency
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-
+ Ordered pairs of Person and the Elevator they take, output in a 2D array. The row index indicates the current pair
+ and the column index indicates either the Person(0) or the Elevator(1) they take.
+ The beginning of the array marks the first Person to take their elevator. 
+ Example toString() of Output: pairs[0][0] + "will take elevator" + pairs[0][1]
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
@@ -51,11 +54,15 @@ Person object (with floor, time they the pushed the button, etc.). Example input
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
+Elevator
+ElevatorManager
+Person
 
 
 Name each interface or class and briefly describe its function or purpose.
-
+Elevator - contains the current floor it's on and it's direction
+ElevatorManager - Acts as a way to keep track of all the elevators 
+Person - contains the floor the person is on, which floor they need to go to, as well as a priority.
 
 ## Edit and Submit this file and any figures referenced by this document.
 
