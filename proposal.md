@@ -37,7 +37,6 @@ Describe at a high level a program that could solve that problem.
 1. Name: Give your project proposal a name (and edit the top line of this file)
  Elevator Efficiency
 
-
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
  Ordered pairs of Person and the Elevator they take, output in a 2D array. The row index indicates the current pair
@@ -52,11 +51,9 @@ Person object (with floor, time they the pushed the button, etc.). Example input
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
 
-
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
 Elevator, ElevatorManager, Person
-
 
 Name each interface or class and briefly describe its function or purpose.
 
