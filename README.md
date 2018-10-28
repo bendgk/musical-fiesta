@@ -11,10 +11,12 @@
        * GitHub username 2: jmallmann      name 2: Jack Mallmann
        * GitHub username 3:       name 3: Ben Kosten
        * GitHub username 4:       name 4: Diquan Xian
-       * GitHub username 5:       name 5:
+       * GitHub username 5: N/A      name 5: N/A
    * When did you complete this exercise? 
+   
    Monday, Oct. 22
    * How long did it take your team to complete this exercise? 
+   
    1 hour, 30 minutes
 
 ## Table of Contents
