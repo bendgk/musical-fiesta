@@ -50,6 +50,15 @@ Person object (with floor, time they the pushed the button, etc.). Example input
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
+The text menu user interface provides an opportunity for users to better interact with efficient elevators. If users are
+residents, they can click a button take an elevator by entering floor numbers of their destinations, with their records showing
+where they start taking an elevator. They can also request accommodations in case of special needs such as moving in large
+furniture, goods or several animals with them in the elevators. Moreover, they can schedule an elevator ride ahead of time, given
+their early plans of going out. If users are elevator managers, the interface allows them to keep track of cleaning and maintenance
+records of the efficient elevators, so that they can determine the appropriate time to clean and maintain the elevators for the next
+time. In addition, new residents can register an account and enter their personal information in the program before using
+the efficient elevators. All residents are also welcomed to provide feedback on issues associated with the elevators and on how
+the effiency of this program interface can be improved to better complement the efficient elevators.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
