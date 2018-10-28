@@ -10,7 +10,7 @@
        * GitHub username 1: swanke2       name 1: John Swanke
        * GitHub username 2: jmallmann      name 2: Jack Mallmann
        * GitHub username 3: bkosten      name 3: Ben Kosten
-       * GitHub username 4: dxian      name 4: Diquan Xian
+       * GitHub username 4: DiquanGit      name 4: Diquan Xian
        * GitHub username 5: N/A      name 5: N/A
    * When did you complete this exercise? 
    
