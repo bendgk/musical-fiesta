@@ -9,8 +9,8 @@
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1: swanke2       name 1: John Swanke
        * GitHub username 2: jmallmann      name 2: Jack Mallmann
-       * GitHub username 3:       name 3:
-       * GitHub username 4:       name 4:
+       * GitHub username 3:       name 3: Ben Kosten
+       * GitHub username 4:       name 4: Diquan Xian
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
    Monday, Oct. 22
